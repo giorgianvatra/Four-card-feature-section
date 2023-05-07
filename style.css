@@ -34,7 +34,7 @@
   align-items: center;
   text-align: center;
   min-height: 100vh;
-  margin: 0 auto; ;
+  margin: 0 auto; 
   
 }
 
@@ -113,7 +113,7 @@ border-top: 0.3rem solid hsl(180, 62%, 55%);
   border-top: 0.3rem solid hsl(212, 86%, 64%);
 }
 
-@media (max-width: 1440px)  {
+@media (max-width: 800px)  {
   .container{ 
     width: 600px;
     
